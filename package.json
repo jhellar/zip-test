@@ -1,0 +1,15 @@
+{
+  "name": "test-zip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fh-fhc": "git@github.com:feedhenry/fh-fhc.git#5e6b667f6c849055d1d9ee03eaf849971067bb66"
+  }
+}
